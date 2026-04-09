@@ -1,0 +1,38 @@
+# Chas Everitt (South Africa)
+
+> South African property portal and real estate brand for searching homes, buying, selling, renting, finding agents, and using homeowner and buyer tools.
+
+_This `llms.txt` is a concise homepage-focused summary of the site’s primary user journeys. For a broader homepage-visible link inventory, see `llms-full.txt`._
+
+
+## Primary Entry Points
+- [Chas Everitt South Africa](https://www.chaseveritt.co.za/) - Main homepage.
+- [Buy](https://www.chaseveritt.co.za/buyers/) - Buyer landing page.
+- [Sell](https://www.chaseveritt.co.za/sellers/) - Seller landing page.
+- [Rent](https://www.chaseveritt.co.za/tenants/) - Tenant and rental landing page.
+- [On Show](https://www.chaseveritt.co.za/on-show/) - On-show search entry point.
+- [Development Showcase](https://www.chaseveritt.co.za/development-showcase/) - Property developments.
+- [Luxury](https://luxury.chaseveritt.co.za/) - Luxury property site.
+
+
+## Homepage Actions
+- [Price My Property](https://www.chaseveritt.co.za/sellers/#sell-form-container) - Start a property valuation request.
+- [List Your Home Online](https://www.chaseveritt.co.za/electronic-authority-to-list/) - Start listing a property online.
+- [Agents](https://www.chaseveritt.co.za/agents/) - Search for local real estate agents.
+- [Offices](https://www.chaseveritt.co.za/offices/) - Find offices and local branches.
+- [Property Email Alerts](https://www.chaseveritt.co.za/property-email-alerts/) - Sign up for listing alerts.
+- [Calculators](https://www.chaseveritt.co.za/calculators/) - Estimate affordability, bond, and transfer costs.
+
+
+## Search and Discovery
+- [Residential for Sale](https://www.chaseveritt.co.za/results/residential/for-sale/) - Browse homes for sale.
+- [Residential to Let](https://www.chaseveritt.co.za/results/residential/to-let/) - Browse rental homes.
+- [On Show Results](https://www.chaseveritt.co.za/results/on-show/) - Browse on-show properties.
+- [Area Profiles](https://www.chaseveritt.co.za/area-profiles/) - Explore areas and suburbs.
+
+
+## News, Company, and Careers
+- [Latest News](https://www.chaseveritt.co.za/news/) - Property news and market commentary.
+- [About Us](https://www.chaseveritt.co.za/profile/) - Company profile.
+- [Join Us](https://www.chaseveritt.co.za/join-us/) - Recruitment and career entry point.
+- [Become a Chas Agent](https://www.chaseveritt.co.za/chas-everitt-agents/) - Agent recruitment page.

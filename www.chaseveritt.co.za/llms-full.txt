@@ -1,0 +1,94 @@
+# Chas Everitt (South Africa)
+
+> Homepage-visible link inventory for Chas Everitt (South Africa), focused on property search plus buying, renting, selling, agents, calculators, news, recruitment, services, legal, partners, and social channels.
+
+_This `llms-full.txt` is based on the attached homepage HTML and the destinations visibly linked from that page, including primary navigation, homepage CTAs, and footer/reference links. It is not a full-site crawl._
+
+
+## Primary Entry Points
+- [Chas Everitt South Africa](https://www.chaseveritt.co.za/) - Main homepage.
+- [Buy](https://www.chaseveritt.co.za/buyers/) - Buyer landing page.
+- [Sell](https://www.chaseveritt.co.za/sellers/) - Seller landing page.
+- [Rent](https://www.chaseveritt.co.za/tenants/) - Tenant and rental landing page.
+- [On Show](https://www.chaseveritt.co.za/on-show/) - On-show search entry point.
+- [Development Showcase](https://www.chaseveritt.co.za/development-showcase/) - Property developments.
+- [Luxury](https://luxury.chaseveritt.co.za/) - Luxury property site.
+- [Zimbabwe](https://www.chaseveritt.co.zw/) - Zimbabwe sister site.
+
+
+## Search, Discovery, and Contact
+- [Residential for Sale](https://www.chaseveritt.co.za/results/residential/for-sale/) - Residential sale listings.
+- [Residential to Let](https://www.chaseveritt.co.za/results/residential/to-let/) - Residential rental listings.
+- [Commercial to Let](https://www.chaseveritt.co.za/results/commercial/to-let/) - Commercial rental listings.
+- [Vacant Land](https://www.chaseveritt.co.za/results/vacant-land/) - Vacant land listings.
+- [On Show Results](https://www.chaseveritt.co.za/results/on-show/) - On-show listings.
+- [Area Profiles](https://www.chaseveritt.co.za/area-profiles/) - Area and suburb discovery.
+- [Property Email Alerts](https://www.chaseveritt.co.za/property-email-alerts/) - Property alert sign-up.
+- [Agents](https://www.chaseveritt.co.za/agents/) - Agent search.
+- [Offices](https://www.chaseveritt.co.za/offices/) - Office search.
+- [Contact](https://www.chaseveritt.co.za/contact/) - General contact page.
+
+
+## Seller and Buyer Tools
+- [Price My Property](https://www.chaseveritt.co.za/sellers/#sell-form-container) - Property valuation request entry point.
+- [List Your Home Online](https://www.chaseveritt.co.za/electronic-authority-to-list/) - Online listing start page.
+- [Calculators](https://www.chaseveritt.co.za/calculators/) - Property finance calculators.
+- [Fraud Prevention](https://www.chaseveritt.co.za/fraud-prevention/) - Anti-fraud guidance.
+- [FICA FAQs](https://www.chaseveritt.co.za/fica-faqs/) - FICA information.
+
+
+## Services
+- [Currencies Direct](https://www.chaseveritt.co.za/currencies-direct/) - Currency transfer service page.
+- [Landlord Information](https://www.chaseveritt.co.za/asset-management/) - Landlord and rental information.
+- [Bond Origination](https://www.chaseveritt.co.za/bond-origination/) - Bond origination information.
+- [Conveyancing](https://www.chaseveritt.co.za/conveyancing/) - Conveyancing information.
+- [Bank Property](https://www.chaseveritt.co.za/bank-property/) - Bank property page.
+- [Sectional Title](https://www.chaseveritt.co.za/sectional-title-information/) - Sectional title information.
+- [Life Saver](https://www.chaseveritt.co.za/lifesaver/) - Life Saver service page.
+
+
+## Company, Brand, and Careers
+- [About Us](https://www.chaseveritt.co.za/profile/) - Company profile.
+- [Creating Smiles](https://www.chaseveritt.co.za/creating-smiles/) - Brand page.
+- [Chas Cares](https://www.chaseveritt.co.za/chas-cares/) - Community initiative page.
+- [Join Us](https://www.chaseveritt.co.za/join-us/) - Recruitment and joining page.
+- [Franchise](https://www.chaseveritt.co.za/franchises/) - Franchise information.
+- [Become a Chas Agent](https://www.chaseveritt.co.za/chas-everitt-agents/) - Agent recruitment page.
+
+
+## News and Editorial
+- [Latest News](https://www.chaseveritt.co.za/news/) - News and advice hub.
+- [Email Newsletter](https://www.chaseveritt.co.za/newsletter/) - Newsletter page.
+- [Media Magazine](https://www.chaseveritt.co.za/media-magazine/) - Magazine / media page.
+
+
+## Legal, Privacy, and Requests
+- [POPI Notice](https://www.chaseveritt.co.za/popi-notice/) - POPI notice.
+- [Email Policy](https://www.chaseveritt.co.za/email-communication-disclaimer/) - Email communication disclaimer.
+- [Terms & Conditions](https://www.chaseveritt.co.za/disclaimer-policy-website/) - Website terms and conditions.
+- [Privacy Policy](https://www.chaseveritt.co.za/privacy-policy/) - Privacy policy.
+- [Cookies](https://www.chaseveritt.co.za/privacy-policy/#use) - Cookie-use section.
+- [Request Information](https://www.chaseveritt.co.za/request-information/) - Information request page.
+- [Sitemap](https://www.chaseveritt.co.za/sitemap/) - HTML sitemap.
+- [PAIA Manual](https://api-gw.propdata.net/gallery/public-api/documents/48249d29-a3c0-4a09-a595-f9632173f087/) - External PAIA document.
+- [PAIA Section 52 Notice](https://api-gw.propdata.net/gallery/public-api/documents/b155e5bc-9759-4d08-840a-c5fd25c4e74a/) - External PAIA document.
+- [PAIA Form 2](https://api-gw.propdata.net/gallery/public-api/documents/dd5b05ac-0c74-4723-b6a2-805e5d89204e/) - External PAIA document.
+
+
+## External Partners and Networks
+- [Currencies Direct South Africa](https://www.currenciesdirect.com/global/south-africa/) - External currency transfer partner page.
+- [Currencies Direct](https://www.currenciesdirect.co.za/) - External Currencies Direct site.
+- [BetterBond](https://www.betterbond.co.za/) - External home finance partner.
+- [LeadingRE](https://www.leadingre.com/) - External real estate network.
+- [Luxury Portfolio International](https://www.luxuryportfolio.com/) - External luxury real estate network.
+- [Private Property](https://www.privateproperty.co.za/) - External property portal.
+
+
+## Social Channels
+- [Facebook](https://www.facebook.com/ChasEverittProperties) - External social profile.
+- [X (Twitter)](https://twitter.com/ChasEveritt) - External social profile.
+- [Instagram](https://www.instagram.com/chaseveritt/) - External social profile.
+- [YouTube](https://www.youtube.com/channel/UCwTctighzv50akhIy6rnvkg) - External social profile.
+- [LinkedIn](https://www.linkedin.com/company/chas-everitt?trk=top_nav_home) - External social profile.
+- [Pinterest](https://za.pinterest.com/chaseverittprop/) - External social profile.
+- [TikTok](https://www.tiktok.com/@chaseverittpropertygroup?is_from_webapp=1) - External social profile.
